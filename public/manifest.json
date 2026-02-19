@@ -1,0 +1,16 @@
+{
+  "name": "Intambwe",
+  "short_name": "Intambwe",
+  "description": "A productivity web app for Rwanda featuring Daily Imihigo, Intambwe streak tracker, and Focus Hill timer.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f2fcf5",
+  "theme_color": "#1e553b",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
